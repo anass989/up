@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE clientes SYSTEM "clientes.dtd">
+<?xml-stylesheet type="text/xsl" href="clientes.xsl"?>
+<clientes>
+  <cliente slide="1">
+    <nombre>Abdo Boukhari</nombre>
+    <descripcion>Idea de negocio: Obrador de Pastelería</descripcion>
+  </cliente>
+  <cliente slide="2">
+    <nombre>Álvaro Cafetería Zayas</nombre>
+    <descripcion>Propuesta de servicio</descripcion>
+  </cliente>
+  <cliente slide="3">
+    <nombre>Bar Darwin</nombre>
+    <descripcion>Curso Formativo de Eficiencia en Costes Materias Primas</descripcion>
+  </cliente>
+</clientes>

@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="equipo.xsl"?>
+<!DOCTYPE equipo SYSTEM "equipo.dtd">
+<equipo>
+  <persona orientacion="d">
+  <nombre>Stephane Pérez</nombre>
+  <descripcion>Experimentado cocinero al que le apasiona el trabajo bien hecho.</descripcion>
+   <imagen>../images/team0005.jpg</imagen>
+   <email>stephane.perez@upsoluciones.es</email>
+  </persona>
+  <persona orientacion="i">
+    <nombre>María de Luque</nombre>
+    <descripcion> Joven y dinámica. Pondré en valor la imagen de tu negocio.</descripcion>
+    <imagen>../images/team0006.jpg</imagen>
+    <email>maria.luque@upsoluciones.es</email>
+  </persona>
+    <persona orientacion="d">
+    <nombre>Mario Rubio</nombre>
+    <descripcion>Mis 20 años de experiencia en el sector de la emergencia me ayudan a priorizar.</descripcion>
+    <imagen>../images/team0004.jpg</imagen>
+    <email>mario.rubio@upsoluciones.es</email>
+  </persona>
+</equipo>

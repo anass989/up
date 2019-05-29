@@ -1,0 +1,5 @@
+<!ELEMENT clientes (cliente*)>
+<!ELEMENT cliente (nombre*, descripcion*)>
+  <!ATTLIST cliente slide CDATA>
+<!ELEMENT nombre (#PCDATA)>
+<!ELEMENT descripcion (#PCDATA)>

@@ -1,0 +1,7 @@
+<!ELEMENT equipo (persona*)>
+<!ELEMENT persona (nombre, descripcion, imagen, email)*>
+<!ATTLIST persona orientacion CDATA>
+<!ELEMENT nombre (#PCDATA)>
+<!ELEMENT descripcion (#PCDATA)>
+<!ELEMENT imagen (#PCDATA)>
+<!ELEMENT email (#PCDATA)>
