@@ -1,0 +1,19 @@
+{
+	"team": [
+		{
+			"photo": "../images/team0004.jpg",
+			"name": "Stephane Pérez",
+			"description": "dinamica"
+		},
+		{
+			"photo": "",
+			"name": "janedoe",
+			"description": "dinamica"
+		},
+		{
+			"photo": "",
+			"name": "no",
+			"description": "dinamica"
+		}
+	]
+}
